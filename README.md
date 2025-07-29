@@ -14,7 +14,7 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 * Other frameworks that I used
-[![Django](https://camo.githubusercontent.com/5af223a91725b7d2eef0a53ed9a7184243894a922d76fba8a62bec3d0a1ccf4a/68747470733a2f2f696d672e666176706e672e636f6d2f32302f362f31392f646a616e676f2d707974686f6e2d636f6d70757465722d69636f6e732d6c6f676f2d706f727461626c652d6e6574776f726b2d67726170686963732d706e672d666176706e672d666d54446d756e796e534b3532617873455747574a654461642e6a7067)
+![Django](https://img.shields.io/badge/django-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 * I worked with these databeses:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
